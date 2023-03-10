@@ -1,0 +1,16 @@
+
+#deleteTarea img{
+    width: 100px !important;
+}
+
+#delteTarea img:nth-of-type(2){
+    display: none;
+}
+
+.cabecera:nth-of-type(3){
+    border: 1px dashed black !important;
+}
+
+#deleteTarea:hover{
+    cursor: pointer;
+}
